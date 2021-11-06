@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maarten</h1>
-<h3 align="center">Computer Science student at Ghent University. Passionate about Vue & Typescript.</h3>
+<h3 align="center">Full Stack Web & Mobile Developer.</h3>
 
 <br>
 
